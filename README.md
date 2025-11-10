@@ -11,7 +11,7 @@ Dans ce TP, nous allons juste voir le strict minimum pour stocker nos schémas.
 4. Laisser le choix par défaut et valider le "fork".
 5. Voilà, vous avez dupliqué le projet dans votre espace. Maintenant, nous pouvons le modifier.😀
 
-### Modifier le Readme
+### Modifier le Readme 1
 Nous allons modifier le fichier README.md qui est affiché quand on arrive que le repostiory. Pour cela :
 
 1. Ouvrir le fichier en cliquant dessus
